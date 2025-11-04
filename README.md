@@ -180,11 +180,14 @@ Si prefieres usar tu PostgreSQL local:
 - Pruebas cubren /health y flujo básico de /tickets.
 
 
-## Notas de diseño
+## Próximos pasos
 
 - Autenticación básica para autores de tickets.
 - Estados y transiciones del ticket (OPEN, IN_PROGRESS, RESOLVED).
 - CI/CD con GitHub Actions (lint, test, build).
 - Documentación OpenAPI (Swagger) y más pruebas.
+
+## Evidencias visuales
+Las capturas del proyecto se encuentran en `/docs/screens/` y muestran el entorno completo corriendo.
 
 Cualquier sugerencia o bug que encuentres, ¡me dices y lo ajustamos!
