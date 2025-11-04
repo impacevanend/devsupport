@@ -82,7 +82,7 @@ Verás algo como:
 ## Variables de entorno
 Archivo .env (la API las lee en src/config/env.js):
     
-# En Docker usamos el host "db" (nombre del servicio en docker-compose)
+### En Docker usamos el host "db" (nombre del servicio en docker-compose)
 
     DATABASE_URL="postgres://app:app@db:5432/tickets"
     PORT=3000
