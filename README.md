@@ -1,7 +1,7 @@
 # devsupport — Gestor de incidencias (API)
 
 Pequeña API en **Node.js + Express + PostgreSQL** para registrar y consultar tickets de soporte.  
-El objetivo de esta primera entrega es dejar el entorno corriendo de forma reproducible (Docker), con validaciones, ORM, pruebas mínimas y documentación clara para que cualquier compañero o profesor lo ejecute sin sufrir.
+El objetivo de esta primera entrega es dejar el entorno corriendo de forma reproducible (Docker), con validaciones, ORM, pruebas mínimas y documentación clara para que cualquier compañero lo ejecute sin sufrir.
 
 ---
 
